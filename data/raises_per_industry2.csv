@@ -1,0 +1,32 @@
+industry,min_raise,max_raise,min_raise_hk,max_raise_hk,switch_bump,switch_bump_hk
+AI algorithm,,,,,,
+Automotive,0.05,0.2,,,0.3,
+Battery,,,,,,
+Chemical,0.05,0.05,,,,
+Corporate Banking,,,,,0.23,0.15
+Design & Property,0.05,0.07,,,0.13,0.175
+Education,,,,,0.3,
+Finance/Accounting,0.04,0.07,0.05,0.08,0.15,0.175
+Financial Services,,,0.03,0.04,0.23,0.15
+Healthcare,0.06,0.07,0.04,0.05,,0.105
+Human Resource,,,0.05,0.08,0.13,0.175
+Industrial/Manufacturing,0.06,0.10,0.06,0.08,0.13,0.125
+Information Technology,,,0.07,0.08,0.2,0.175
+Insurance,,,0.04,0.05,,0.205
+Intelligent Drive,,,,,,
+Investment Banking,,,0.03,0.04,,0.15
+Legal/Compliance,0.08,0.1,0.05,0.08,0.3,0.175
+Management Consulting,,,,,,
+Management/Administration,,,,,,
+Marketing,0.05,0.3,,,0.25,0.1
+Media Agency,,,,,,
+Medical Devices/NGS/IVD,,,0.04,0.05,,0.115
+Others,,,,,,
+PE/VC,,,0.03,0.04,,0.11
+Pharmaceutical,,,0.04,0.05,,0.115
+Professional Services,0.05,0.3,,,,0.165
+Retail & Luxury,,,0.03,0.08,0.1,0.11
+Sales,,,,,0.23,
+Security Derivatives & Asset management,,,,,,
+Supply Chain,,,,,0.15,
+Technology Center,,,,,,

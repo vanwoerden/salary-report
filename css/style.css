@@ -1,0 +1,351 @@
+body, svg {
+    font-size: 12px;
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+body {
+    margin: 0;
+    max-width: 640px;
+}
+h1 {
+    padding: 0;
+    line-height: 1.1em;
+    font-size: 1.8em;
+}
+h2 {
+    font-weight: 300;
+    line-height: 1.3em;
+    font-size: 1.2em;
+    padding-bottom: 0.1em;
+}
+h2 > #delta-from-median {
+    font-weight: 500;
+}
+h2.medium {
+    font-weight: 500;
+}
+a {
+    color: #f05424;
+}
+a#jobs-link {
+    background-color: #f05424;
+    color: white;
+    text-decoration: none;
+    border-radius: 100px;
+    padding: 11px 20px;
+    /* width: 100%; */
+    display: block;
+    text-align: center;
+    margin-top: 1.5em;
+    margin-bottom: 3em;
+}
+p.small {
+    font-size: 0.7em;
+    line-height: 1.5em;
+    background: #f5f5f5;
+    padding: 0.6em 1em;
+}
+#industry, #location {
+    display: none;
+}
+.container {
+    
+}
+select {
+    /*max-width: 200px;*/
+    display: inline;
+    margin-top: 5px;
+}
+.select-css {
+	display: inline;
+    font-size: 1em;
+    font-family: "Work Sans";
+    font-weight: 500;
+    line-height: 1.5em;
+    padding: 0; 
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    border-radius: .1em;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #fff;
+    border-width: 0px;
+    border-color: #ddd;
+    /* text-decoration: underline; */
+    cursor: pointer;
+    background-image: url(../svg/triangle.svg);
+    background-repeat: no-repeat, repeat;
+    background-position: right .2em top 0.7em, 0 0;
+    background-size: .45em auto, 50%;
+    text-decoration: underline;
+    white-space: normal;
+}
+.select-css::-ms-expand {
+	display: none;
+}
+.select-css:hover {
+	border-color: #fff;
+}
+.select-css:focus {
+	border-color: #aaa;
+	box-shadow: none;
+	box-shadow: none;
+	color: #000;
+	outline: none;
+}
+.select-css option {
+	font-weight:normal;
+}
+
+.sentence {
+    font-size: 1.4em;
+    padding: 0 30px;
+    max-width: 100%;
+    line-height: 1.5em;
+}
+#currency {
+    font-size: 0.8em;
+    background: #f1f1f1;
+    padding: 0.2em;
+}
+#histogram {
+    padding-top: 1em;
+}
+
+.values {
+    font-weight: 500;
+}
+.quartile-label, .salary-label {
+    font-size: 1em;
+    padding: 0.2em;
+    background: rgba(255, 255, 255, 0.7);
+}
+.salary-label {
+    font-size: 1em;
+    fill: #fff;
+}
+.salary-line {
+    
+}
+.salary-point {
+    stroke-width: 2px;
+    fill: white;
+    stroke: #f05424;
+}
+.promotion-point {
+    stroke-width: 1.5px;
+    fill: white;
+    stroke: #f05424;
+}
+.dot {
+    opacity: 0;
+}
+.user-salary-dot {
+    fill: #fff;
+    stroke: #f05424;
+    stroke-width: 3;
+}
+.line, .line2 {
+    fill: #f05424;
+    fill-opacity: 0.3;
+    stroke: #f05424;
+    stroke-width: 3;
+    /*opacity: 0.5;*/
+}
+.line-orange {
+    stroke: #f05424;
+    stroke-width: 3;
+    fill: none;
+}
+.line2 {
+    fill: #333;
+    stroke: #333;
+}
+.label-background {
+    fill: #f05424;
+    width: 40px;
+    height: 20px;
+}
+.promotion-label-background {
+    fill: #f05424;
+    width: 82px;
+    height: 20px;
+}
+.median-background {
+    fill: #333;
+    width: 90px;
+    height: 20px;
+}
+.median-label {
+    fill: white;
+    font-size: 1em;
+}
+.median-salary {
+    font-size: 0.65em;
+}
+.projected-salary-label {
+    color: #333;
+    font-size: 1em;
+}
+#projected-income-block, #cta {
+    padding-top: 1.4em;
+}
+#cta {
+    
+}
+.projected-income-disclaimer {
+    margin-top: -2.5em;
+    color: #555;
+}
+#job-switch-toggle {
+    /*font-size: 0.8em;*/
+    cursor: pointer;
+    /*padding: 1em 0;*/
+    /*clear: both;*/
+    overflow: auto;
+    /*margin: 0 auto;*/
+    /*width: fit-content;*/
+}
+.toggle-option {
+    height: 1em;
+    line-height: 1em;
+    /*border: 1px solid black;*/
+    border-radius: 2em;
+    /*padding: 0.4em 0.7em;*/
+    color: #000;
+    text-decoration: none;
+}
+.toggle-option.active {
+    color: #f05424;
+    text-decoration: underline; 
+    transition: 0.3s;
+}
+.option-left {
+    border-radius: 3em 0 0 3em;
+    /*float: left;*/
+}
+.option-right {
+    border-radius: 0 3em 3em 0;
+    /*float: left;*/
+}
+.x-axis {
+    font-size: 1em;
+    font-family: "Work Sans";
+}
+.y-axis {
+    display: none;
+}
+.tick {
+    font-size: 1em;
+}
+
+/*
+ * Range slider styles
+ */
+input[type=range] {
+  -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+  background: transparent; /* Otherwise white in Chrome */
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+input[type=range]:focus {
+  outline: none; /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  cursor: pointer;
+
+  /* Hides the slider so custom styles can be added */
+  background: transparent; 
+  border-color: transparent;
+  color: transparent;
+}
+
+/* Special styling for WebKit/Blink */
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: 2px solid #f05424;
+  height: 24px;
+  width: 24px;
+  border-radius: 12px;
+  background: #ffffff;
+  cursor: pointer;
+  margin-top: -10px;
+  box-shadow: 0.5px 0.5px 2px 1px rgba(0,0,0,.32)
+}
+
+/* All the same stuff for Firefox */
+input[type=range]::-moz-range-thumb {
+  box-shadow: 0.5px 0.5px 2px 1px rgba(0,0,0,.32)
+  border: 2px solid #f05424;
+  height: 24px;
+  width: 24px;
+  border-radius: 12px;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+/* All the same stuff for IE */
+input[type=range]::-ms-thumb {
+  box-shadow: 0.5px 0.5px 2px 1px rgba(0,0,0,.32)
+  border: 2px solid #f05424;
+  height: 24px;
+  width: 24px;
+  border-radius: 12px;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  height: 6px;
+  cursor: pointer;
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+  background: #f05424;
+  border-radius: 3px;
+  /*border: 0.2px solid #010101;*/
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  /*background: #367ebd;*/
+}
+
+input[type=range]::-moz-range-track {
+  height: 6px;
+  cursor: pointer;
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+  background: #f05424;
+  border-radius: 3px;
+  /*border: 0.2px solid #010101;*/
+}
+
+input[type=range]::-ms-track {
+  height: 6px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  border-width: 16px 0;
+  color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+  background: #2a6495;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #3071a9;
+}
+input[type=range]::-ms-fill-upper {
+  background: #3071a9;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #367ebd;
+}

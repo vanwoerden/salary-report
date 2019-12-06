@@ -1,0 +1,1001 @@
+id,salary,location,gender,years_of_experience,industry,function
+1,50973,China,Female,10,Technology,Computer Software: Prepackaged Software
+2,74046,China,Male,10,Technology,Semiconductors
+3,132774,Germany,Female,20,Finance,Property-Casualty Insurers
+4,50688,China,Male,20,Consumer Services,Newspapers/Magazines
+5,194247,China,Male,14,Energy,Metal Fabrications
+6,60780,China,Male,8,Consumer Non-Durables,Packaged Foods
+7,181439,China,Male,3,Finance,Major Banks
+8,65967,China,Female,0,Energy,Oil & Gas Production
+9,142937,China,Female,11,Public Utilities,Electric Utilities: Central
+10,58385,China,Male,20,Consumer Services,Catalog/Specialty Distribution
+11,196142,China,Male,1,Health Care,Major Pharmaceuticals
+12,171524,France,Male,7,n/a,n/a
+13,125190,China,Female,6,Finance,Savings Institutions
+14,84051,China,Male,20,Public Utilities,Telecommunications Equipment
+15,112140,China,Female,6,Consumer Services,Other Consumer Services
+16,186866,China,Male,4,Technology,"Computer Software: Programming, Data Processing"
+17,165584,France,Male,8,n/a,n/a
+18,187231,China,Male,2,n/a,n/a
+19,170992,China,Female,1,Health Care,Major Pharmaceuticals
+20,154718,Brazil,Female,12,Technology,Computer peripheral equipment
+21,62147,China,Male,9,Technology,Computer Software: Prepackaged Software
+22,151079,China,Male,0,Finance,Major Banks
+23,92725,China,Female,1,Energy,Oil & Gas Production
+24,135026,China,Male,14,Finance,Business Services
+25,100310,China,Female,4,Transportation,Trucking Freight/Courier Services
+26,168870,China,Male,14,Consumer Non-Durables,Packaged Foods
+27,65910,China,Female,12,Consumer Services,Clothing/Shoe/Accessory Stores
+28,75422,China,Female,12,Finance,Business Services
+29,74866,China,Female,13,Finance,Major Banks
+30,129200,Thailand,Female,3,Technology,Computer Manufacturing
+31,90392,Brazil,Female,16,Health Care,Major Pharmaceuticals
+32,99438,China,Female,16,Miscellaneous,Multi-Sector Companies
+33,62676,China,Female,13,Technology,EDP Services
+34,162219,China,Female,6,Health Care,Industrial Specialties
+35,145240,China,Male,18,Energy,Natural Gas Distribution
+36,197063,France,Male,13,n/a,n/a
+37,105686,China,Female,0,Finance,Finance/Investors Services
+38,110797,France,Female,18,Capital Goods,Industrial Specialties
+39,103773,Brazil,Male,12,Finance,Savings Institutions
+40,83458,China,Male,0,Miscellaneous,Industrial Machinery/Components
+41,84957,China,Male,0,Finance,Business Services
+42,99204,China,Male,16,Technology,EDP Services
+43,84741,Brazil,Female,13,Consumer Services,Restaurants
+44,164543,Brazil,Male,13,Capital Goods,Auto Parts:O.E.M.
+45,154350,China,Male,3,n/a,n/a
+46,84844,China,Female,17,Technology,EDP Services
+47,98342,China,Male,14,Consumer Services,Telecommunications Equipment
+48,123325,China,Female,17,Consumer Services,Marine Transportation
+49,95258,France,Female,17,Consumer Services,Hotels/Resorts
+50,128021,China,Female,18,n/a,n/a
+51,147483,China,Female,15,Finance,Major Banks
+52,174084,China,Male,8,Consumer Services,Restaurants
+53,115426,France,Female,17,Finance,Major Banks
+54,95689,Thailand,Male,17,Finance,Accident &Health Insurance
+55,117367,China,Female,18,Miscellaneous,Business Services
+56,168309,China,Male,17,Energy,Oil & Gas Production
+57,56458,China,Female,20,Finance,Commercial Banks
+58,128906,France,Female,20,Technology,Electrical Products
+59,123683,China,Male,6,Consumer Services,RETAIL: Building Materials
+60,73326,China,Male,9,Finance,Business Services
+61,113157,China,Male,18,Consumer Services,Marine Transportation
+62,148890,China,Male,16,n/a,n/a
+63,157622,Brazil,Female,20,Capital Goods,Industrial Machinery/Components
+64,166214,China,Male,10,Consumer Non-Durables,Plastic Products
+65,59717,China,Male,17,Consumer Durables,Specialty Chemicals
+66,193077,Brazil,Female,16,Public Utilities,Oil & Gas Production
+67,122214,China,Female,3,n/a,n/a
+68,90695,France,Male,7,Health Care,Major Pharmaceuticals
+69,133565,China,Male,11,n/a,n/a
+70,83353,France,Male,14,Capital Goods,Electrical Products
+71,170778,China,Male,5,Energy,Oil & Gas Production
+72,65466,Brazil,Female,11,Capital Goods,Industrial Machinery/Components
+73,169072,Thailand,Male,2,Energy,Oil & Gas Production
+74,141776,China,Male,3,Finance,Major Banks
+75,155038,China,Female,11,Health Care,Major Pharmaceuticals
+76,89696,China,Male,16,Consumer Services,Other Specialty Stores
+77,93570,Netherlands,Female,10,n/a,n/a
+78,53954,France,Male,3,Consumer Services,Broadcasting
+79,87149,China,Female,10,Energy,Integrated oil Companies
+80,178536,China,Male,10,Finance,Investment Bankers/Brokers/Service
+81,110716,China,Female,10,Energy,Metal Fabrications
+82,71378,China,Female,13,Technology,Computer Software: Prepackaged Software
+83,169234,China,Male,4,Energy,Natural Gas Distribution
+84,93909,China,Male,18,Public Utilities,Electric Utilities: Central
+85,189172,China,Male,1,Health Care,Industrial Specialties
+86,61792,Netherlands,Male,14,Finance,Investment Bankers/Brokers/Service
+87,98581,China,Male,1,Consumer Services,Real Estate Investment Trusts
+88,178166,China,Male,1,n/a,n/a
+89,80325,China,Female,3,Capital Goods,Industrial Machinery/Components
+90,139477,Thailand,Female,1,Consumer Durables,Specialty Chemicals
+91,121003,Brazil,Female,8,Basic Industries,Steel/Iron Ore
+92,70902,China,Male,0,n/a,n/a
+93,63806,China,Male,17,Consumer Services,Real Estate Investment Trusts
+94,182650,China,Female,9,n/a,n/a
+95,91010,Uganda,Male,18,Capital Goods,Building Products
+96,110508,Thailand,Male,9,Finance,Major Banks
+97,50426,China,Female,6,Consumer Services,Broadcasting
+98,107717,Brazil,Male,7,Technology,Computer Software: Prepackaged Software
+99,82147,China,Male,18,Health Care,Medical/Dental Instruments
+100,51852,China,Female,19,Capital Goods,Fluid Controls
+101,185994,Brazil,Male,5,n/a,n/a
+102,89773,China,Female,14,n/a,n/a
+103,53773,China,Female,20,Public Utilities,Natural Gas Distribution
+104,51587,Brazil,Female,12,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+105,128003,China,Female,11,Basic Industries,Major Chemicals
+106,55361,Thailand,Female,13,Finance,Investment Managers
+107,164301,Zambia,Female,20,Consumer Services,Restaurants
+108,174209,China,Female,10,Health Care,Major Pharmaceuticals
+109,68070,China,Female,13,Technology,Semiconductors
+110,178026,China,Female,10,Consumer Services,Real Estate
+111,178372,China,Female,11,Public Utilities,Electric Utilities: Central
+112,127655,China,Female,0,Technology,EDP Services
+113,138866,China,Male,10,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+114,154117,China,Male,19,Consumer Services,Real Estate Investment Trusts
+115,181913,Brazil,Female,20,Consumer Non-Durables,Beverages (Production/Distribution)
+116,158839,Brazil,Male,4,Consumer Non-Durables,Electronic Components
+117,69299,Brazil,Male,10,Public Utilities,Electric Utilities: Central
+118,155273,China,Male,1,n/a,n/a
+119,196212,China,Male,17,Finance,Investment Managers
+120,65505,China,Male,2,n/a,n/a
+121,124542,China,Female,18,Capital Goods,Industrial Machinery/Components
+122,61679,Thailand,Female,7,n/a,n/a
+123,136213,Brazil,Female,7,n/a,n/a
+124,97620,China,Male,17,n/a,n/a
+125,138584,Netherlands,Female,17,Consumer Services,Newspapers/Magazines
+126,99507,China,Male,11,Public Utilities,Telecommunications Equipment
+127,155026,Brazil,Male,11,Finance,Major Banks
+128,69729,France,Male,11,Capital Goods,Industrial Machinery/Components
+129,147848,France,Male,15,n/a,n/a
+130,75384,China,Male,16,n/a,n/a
+131,117939,Brazil,Male,5,Finance,Major Banks
+132,179884,China,Female,12,Health Care,Major Pharmaceuticals
+133,140232,China,Female,15,Consumer Services,Real Estate Investment Trusts
+134,193445,Thailand,Male,20,Technology,EDP Services
+135,127341,China,Male,14,Health Care,Major Pharmaceuticals
+136,122298,China,Male,2,Consumer Non-Durables,Packaged Foods
+137,63672,China,Female,1,Consumer Services,Movies/Entertainment
+138,103651,China,Male,17,Miscellaneous,Other Consumer Services
+139,150596,France,Male,14,Health Care,Major Pharmaceuticals
+140,175549,China,Male,10,n/a,n/a
+141,103798,France,Female,17,Finance,Business Services
+142,191110,China,Female,13,Energy,Oil & Gas Production
+143,175141,France,Male,13,Health Care,Medical/Dental Instruments
+144,128757,China,Male,20,Transportation,Trucking Freight/Courier Services
+145,99013,Thailand,Female,5,Consumer Non-Durables,Recreational Products/Toys
+146,179591,China,Male,8,Finance,Major Banks
+147,183759,Brazil,Female,7,Capital Goods,Industrial Machinery/Components
+148,151912,France,Female,12,Finance,Investment Bankers/Brokers/Service
+149,55571,China,Male,4,Technology,Semiconductors
+150,101302,China,Female,15,Consumer Services,Professional Services
+151,70136,Brazil,Female,10,Consumer Non-Durables,Specialty Foods
+152,127672,China,Female,16,Finance,Savings Institutions
+153,113423,France,Female,8,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+154,131335,China,Female,10,Capital Goods,Industrial Specialties
+155,51510,China,Female,1,Basic Industries,Major Chemicals
+156,193820,Brazil,Male,9,n/a,n/a
+157,132088,China,Male,0,Consumer Durables,Home Furnishings
+158,114251,China,Female,14,Finance,Savings Institutions
+159,184560,China,Female,17,Technology,Electrical Products
+160,179958,Brazil,Female,17,Consumer Services,Newspapers/Magazines
+161,95376,Hong Kong,Male,11,Technology,Industrial Machinery/Components
+162,173936,China,Female,10,n/a,n/a
+163,97252,China,Female,11,Consumer Services,Broadcasting
+164,145448,China,Male,5,Health Care,Major Pharmaceuticals
+165,130061,France,Male,15,Capital Goods,Auto Manufacturing
+166,75051,China,Female,19,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+167,62725,France,Male,3,Consumer Non-Durables,Apparel
+168,79510,China,Female,17,Capital Goods,Fluid Controls
+169,101318,China,Female,17,Consumer Durables,Home Furnishings
+170,50783,Venezuela,Male,12,Public Utilities,Water Supply
+171,133575,Netherlands,Female,2,Finance,Major Banks
+172,190244,Brazil,Male,4,Consumer Services,Real Estate Investment Trusts
+173,159140,Brazil,Female,14,Technology,Semiconductors
+174,62094,France,Male,9,n/a,n/a
+175,107002,Brazil,Male,4,n/a,n/a
+176,71510,China,Male,6,Basic Industries,Paper
+177,78292,Thailand,Female,12,Finance,Property-Casualty Insurers
+178,134511,China,Female,8,Consumer Services,Movies/Entertainment
+179,187021,China,Female,16,Consumer Non-Durables,Beverages (Production/Distribution)
+180,162774,China,Male,4,Finance,Investment Managers
+181,81236,China,Female,15,Energy,Metal Fabrications
+182,141952,China,Male,8,Finance,Property-Casualty Insurers
+183,187115,China,Male,3,n/a,n/a
+184,175445,Venezuela,Female,11,Capital Goods,Industrial Machinery/Components
+185,189854,Brazil,Female,20,Capital Goods,Electrical Products
+186,165046,China,Male,14,n/a,n/a
+187,126380,Thailand,Female,8,Miscellaneous,Business Services
+188,191502,China,Female,13,Health Care,Major Pharmaceuticals
+189,147099,France,Male,13,n/a,n/a
+190,117450,Brazil,Male,2,n/a,n/a
+191,161416,China,Male,16,Technology,Semiconductors
+192,154678,Thailand,Male,20,Consumer Durables,Automotive Aftermarket
+193,146856,China,Male,16,n/a,n/a
+194,181642,China,Male,11,Public Utilities,Telecommunications Equipment
+195,135860,China,Female,16,Consumer Services,Transportation Services
+196,140841,China,Female,16,Finance,Major Banks
+197,67312,Thailand,Male,4,n/a,n/a
+198,114559,China,Male,17,Health Care,Major Pharmaceuticals
+199,158712,China,Male,12,Energy,Oil & Gas Production
+200,135572,China,Male,13,Technology,EDP Services
+201,101425,China,Female,0,Energy,Oil & Gas Production
+202,147468,Brazil,Male,18,Energy,Oil Refining/Marketing
+203,103116,China,Female,0,Technology,Computer Communications Equipment
+204,59986,China,Female,0,Health Care,Major Pharmaceuticals
+205,174279,China,Female,20,n/a,n/a
+206,127497,China,Female,20,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+207,93772,China,Female,11,Consumer Services,Real Estate Investment Trusts
+208,180026,China,Female,16,Miscellaneous,Business Services
+209,174078,France,Female,7,Consumer Services,Building operators
+210,179793,China,Male,7,Public Utilities,Electric Utilities: Central
+211,62200,China,Female,20,Public Utilities,Natural Gas Distribution
+212,159432,Thailand,Female,0,Capital Goods,Industrial Machinery/Components
+213,147049,China,Female,17,n/a,n/a
+214,60261,China,Female,8,Technology,EDP Services
+215,66730,Venezuela,Male,1,n/a,n/a
+216,82679,China,Male,8,Public Utilities,Electric Utilities: Central
+217,70927,Brazil,Female,6,Finance,Commercial Banks
+218,110120,France,Female,1,Technology,EDP Services
+219,199255,China,Male,13,Technology,Computer Software: Prepackaged Software
+220,94574,China,Male,16,Consumer Non-Durables,Recreational Products/Toys
+221,57470,Thailand,Male,3,Finance,Savings Institutions
+222,72369,China,Female,16,Energy,Oil Refining/Marketing
+223,59792,China,Male,9,Consumer Non-Durables,Telecommunications Equipment
+224,67800,China,Male,19,Basic Industries,Telecommunications Equipment
+225,199911,China,Female,17,Finance,Commercial Banks
+226,138059,China,Female,3,Consumer Non-Durables,Packaged Foods
+227,187267,Germany,Female,19,Finance,Real Estate
+228,74470,Brazil,Male,5,Capital Goods,Railroads
+229,103633,China,Male,6,Transportation,Oil Refining/Marketing
+230,69195,China,Male,7,Consumer Services,Movies/Entertainment
+231,106259,China,Male,9,Health Care,Major Pharmaceuticals
+232,107012,China,Male,13,Consumer Services,Real Estate Investment Trusts
+233,174514,China,Male,15,Finance,Business Services
+234,175015,China,Male,9,Consumer Services,Real Estate Investment Trusts
+235,85035,Thailand,Male,14,Consumer Services,Other Consumer Services
+236,116804,China,Male,9,Public Utilities,Electric Utilities: Central
+237,147942,Brazil,Female,11,n/a,n/a
+238,103507,China,Male,0,Energy,Oil & Gas Production
+239,196172,Brazil,Female,16,Technology,Industrial Machinery/Components
+240,94571,China,Female,2,Consumer Non-Durables,Packaged Foods
+241,67273,China,Female,0,Miscellaneous,Multi-Sector Companies
+242,177920,Netherlands,Male,4,n/a,n/a
+243,188842,China,Male,8,Consumer Non-Durables,Packaged Foods
+244,176046,China,Male,16,Finance,Major Banks
+245,145929,China,Female,6,Miscellaneous,Business Services
+246,188883,China,Female,11,Consumer Non-Durables,Plastic Products
+247,198639,China,Male,7,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+248,158993,China,Female,5,Consumer Non-Durables,Package Goods/Cosmetics
+249,104328,China,Female,2,Consumer Non-Durables,Packaged Foods
+250,117679,China,Female,1,Technology,Computer Software: Prepackaged Software
+251,132474,China,Male,2,Technology,EDP Services
+252,108595,China,Female,20,Finance,Accident &Health Insurance
+253,69308,China,Male,11,Finance,Investment Bankers/Brokers/Service
+254,195818,China,Female,4,Capital Goods,Metal Fabrications
+255,102517,Brazil,Female,6,n/a,n/a
+256,76665,China,Female,3,Finance,Major Banks
+257,157113,France,Male,3,Technology,Diversified Commercial Services
+258,183938,France,Female,0,Finance,Major Banks
+259,119265,France,Male,20,n/a,n/a
+260,107663,China,Male,0,Basic Industries,Homebuilding
+261,57159,China,Female,12,Health Care,Major Pharmaceuticals
+262,126864,China,Male,10,Finance,Major Banks
+263,99680,China,Male,9,Health Care,Major Pharmaceuticals
+264,125352,China,Male,1,Finance,Finance: Consumer Services
+265,84842,Netherlands,Female,19,n/a,n/a
+266,57227,China,Female,10,Finance,Property-Casualty Insurers
+267,145467,France,Male,1,Capital Goods,Industrial Specialties
+268,147837,Thailand,Female,7,Health Care,Major Pharmaceuticals
+269,152356,China,Female,14,Consumer Services,Real Estate Investment Trusts
+270,105427,China,Male,5,Finance,Savings Institutions
+271,89724,Netherlands,Male,20,n/a,n/a
+272,116493,China,Female,11,n/a,n/a
+273,66196,China,Male,15,n/a,n/a
+274,177030,Brazil,Male,6,Miscellaneous,Business Services
+275,182654,China,Female,9,Finance,Investment Bankers/Brokers/Service
+276,126929,China,Female,18,Capital Goods,Construction/Ag Equipment/Trucks
+277,57731,France,Male,11,Technology,"Computer Software: Programming, Data Processing"
+278,99816,France,Male,19,Technology,Computer Software: Prepackaged Software
+279,101264,China,Female,11,n/a,n/a
+280,192109,China,Male,11,Capital Goods,Auto Parts:O.E.M.
+281,97007,China,Female,16,Finance,Life Insurance
+282,185064,China,Male,2,Energy,Oil & Gas Production
+283,69733,France,Male,10,n/a,n/a
+284,114769,China,Male,1,Consumer Services,Broadcasting
+285,109590,Thailand,Female,17,Capital Goods,Building Products
+286,168551,China,Female,8,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+287,62450,China,Female,0,Public Utilities,Oil/Gas Transmission
+288,63881,China,Female,8,Consumer Durables,Electrical Products
+289,73330,China,Female,12,Finance,Major Banks
+290,114273,China,Female,13,Health Care,Medical/Dental Instruments
+291,140802,China,Female,16,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+292,92036,China,Female,19,Health Care,Major Pharmaceuticals
+293,93339,China,Male,10,Capital Goods,Industrial Machinery/Components
+294,163737,France,Male,3,Finance,Major Banks
+295,119796,China,Male,2,n/a,n/a
+296,71644,France,Female,15,n/a,n/a
+297,123955,France,Male,10,n/a,n/a
+298,113852,France,Female,19,Energy,Oil & Gas Production
+299,177209,China,Male,2,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+300,73629,China,Female,14,Public Utilities,Telecommunications Equipment
+301,105174,China,Male,1,n/a,n/a
+302,67636,Brazil,Female,14,Finance,Investment Managers
+303,171870,Venezuela,Female,18,Consumer Non-Durables,Apparel
+304,92471,China,Female,16,n/a,n/a
+305,186815,China,Female,9,Basic Industries,Precious Metals
+306,149260,France,Male,12,Consumer Services,Other Consumer Services
+307,94104,China,Female,6,n/a,n/a
+308,121913,France,Female,20,Capital Goods,Industrial Machinery/Components
+309,191429,Brazil,Male,11,Public Utilities,Electric Utilities: Central
+310,143451,China,Male,0,n/a,n/a
+311,190639,France,Male,1,n/a,n/a
+312,76538,China,Female,20,n/a,n/a
+313,168236,China,Male,1,Finance,Real Estate
+314,182448,China,Male,7,n/a,n/a
+315,174608,China,Female,11,Finance,Investment Managers
+316,176130,Zambia,Female,5,Basic Industries,Agricultural Chemicals
+317,156696,China,Male,0,Consumer Services,Other Consumer Services
+318,140894,China,Male,1,Miscellaneous,Industrial Machinery/Components
+319,91170,China,Female,19,Basic Industries,Aluminum
+320,196396,Brazil,Female,19,Energy,Oil & Gas Production
+321,142407,China,Female,10,Basic Industries,Major Chemicals
+322,131511,China,Female,8,Consumer Non-Durables,Package Goods/Cosmetics
+323,108251,Brazil,Female,0,Health Care,Medical/Dental Instruments
+324,163856,China,Male,1,Technology,Semiconductors
+325,90933,China,Male,17,Consumer Services,Real Estate Investment Trusts
+326,91982,Brazil,Female,16,Consumer Services,Hotels/Resorts
+327,191410,Brazil,Female,13,n/a,n/a
+328,66621,China,Male,8,Technology,Semiconductors
+329,145070,France,Female,19,Consumer Services,Real Estate Investment Trusts
+330,128572,China,Female,1,Consumer Durables,Home Furnishings
+331,103235,Thailand,Female,20,n/a,n/a
+332,174460,China,Female,12,Consumer Durables,Miscellaneous manufacturing industries
+333,165859,China,Female,20,Transportation,Transportation Services
+334,197198,China,Female,19,n/a,n/a
+335,96775,China,Male,20,Technology,Semiconductors
+336,199251,Zambia,Female,10,n/a,n/a
+337,143497,China,Male,16,n/a,n/a
+338,192510,China,Female,16,n/a,n/a
+339,170144,China,Male,2,Basic Industries,Forest Products
+340,105315,China,Female,3,Finance,Finance: Consumer Services
+341,78838,China,Female,17,Consumer Durables,Containers/Packaging
+342,150781,Thailand,Female,16,Energy,Oil & Gas Production
+343,121667,China,Female,14,Capital Goods,Metal Fabrications
+344,61155,France,Male,18,Technology,EDP Services
+345,100956,Brazil,Female,9,Technology,"Computer Software: Programming, Data Processing"
+346,99051,Thailand,Female,17,Transportation,Marine Transportation
+347,117158,France,Male,19,Health Care,Major Pharmaceuticals
+348,199532,China,Male,2,n/a,n/a
+349,89327,China,Male,11,Consumer Services,Catalog/Specialty Distribution
+350,125616,China,Female,19,Public Utilities,Electric Utilities: Central
+351,87494,China,Female,18,Technology,Semiconductors
+352,181824,China,Male,2,Basic Industries,Major Chemicals
+353,160251,Brazil,Female,10,Basic Industries,Environmental Services
+354,156319,China,Male,15,Finance,Savings Institutions
+355,87583,China,Male,16,Basic Industries,Major Chemicals
+356,165639,China,Female,18,n/a,n/a
+357,51002,China,Male,4,Technology,Computer Software: Prepackaged Software
+358,141425,China,Male,0,Health Care,Major Pharmaceuticals
+359,74118,China,Male,0,Transportation,Marine Transportation
+360,112761,France,Male,3,n/a,n/a
+361,135119,China,Female,19,n/a,n/a
+362,194676,China,Male,5,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+363,123139,China,Male,20,Capital Goods,Auto Parts:O.E.M.
+364,133133,China,Male,2,Consumer Services,Broadcasting
+365,152952,France,Female,12,Finance,Major Banks
+366,134659,Brazil,Female,16,Consumer Services,Real Estate Investment Trusts
+367,170671,China,Male,8,Energy,Oil & Gas Production
+368,183424,Thailand,Female,3,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+369,61410,China,Male,1,Health Care,Major Pharmaceuticals
+370,68062,Brazil,Male,6,Health Care,Industrial Specialties
+371,186294,China,Male,15,Consumer Services,Other Consumer Services
+372,144691,France,Female,0,n/a,n/a
+373,97024,China,Male,13,n/a,n/a
+374,62868,China,Male,15,Finance,Investment Managers
+375,186580,China,Female,8,Consumer Services,Broadcasting
+376,112680,China,Female,2,Technology,Computer Software: Prepackaged Software
+377,55067,China,Male,4,n/a,n/a
+378,135893,China,Female,20,Finance,Finance: Consumer Services
+379,64189,China,Male,16,Consumer Services,Catalog/Specialty Distribution
+380,93264,China,Female,2,n/a,n/a
+381,97814,China,Female,10,Capital Goods,Industrial Specialties
+382,113842,China,Female,18,Technology,Computer Communications Equipment
+383,116096,China,Female,8,Consumer Durables,Metal Fabrications
+384,182648,China,Female,19,n/a,n/a
+385,57252,China,Female,15,Finance,Major Banks
+386,101401,China,Male,16,Consumer Services,Paper
+387,59779,China,Female,2,Consumer Durables,Home Furnishings
+388,160949,China,Female,11,Consumer Durables,Building Products
+389,62443,Brazil,Female,8,Basic Industries,General Bldg Contractors - Nonresidential Bldgs
+390,177530,China,Male,20,n/a,n/a
+391,102714,China,Male,10,n/a,n/a
+392,103830,Thailand,Female,1,Technology,Computer Software: Prepackaged Software
+393,115932,China,Female,17,Consumer Services,Real Estate Investment Trusts
+394,184887,China,Male,12,Transportation,Railroads
+395,66815,China,Male,13,Consumer Services,Real Estate Investment Trusts
+396,71781,China,Male,9,Finance,Major Banks
+397,112800,China,Female,13,Technology,Industrial Machinery/Components
+398,114817,China,Male,11,Consumer Services,Restaurants
+399,118246,Netherlands,Male,19,Consumer Non-Durables,Packaged Foods
+400,94747,China,Female,9,Health Care,Medical/Dental Instruments
+401,163711,China,Male,4,Capital Goods,Industrial Machinery/Components
+402,50168,Brazil,Female,13,Health Care,Major Pharmaceuticals
+403,97033,China,Female,15,n/a,n/a
+404,88832,China,Male,3,Capital Goods,Homebuilding
+405,178499,Uganda,Female,1,Health Care,Major Pharmaceuticals
+406,164916,China,Male,20,Public Utilities,Power Generation
+407,81611,China,Male,11,Consumer Services,Military/Government/Technical
+408,144991,China,Female,12,Technology,"Computer Software: Programming, Data Processing"
+409,162605,China,Male,13,n/a,n/a
+410,99366,Venezuela,Female,17,Public Utilities,Telecommunications Equipment
+411,185333,Brazil,Female,2,Miscellaneous,Business Services
+412,135380,China,Male,8,Finance,Banks
+413,68458,China,Female,1,Miscellaneous,Multi-Sector Companies
+414,175645,China,Male,19,Consumer Services,Clothing/Shoe/Accessory Stores
+415,72908,China,Male,13,Miscellaneous,Business Services
+416,72683,Brazil,Male,7,n/a,n/a
+417,109329,China,Female,18,Energy,Natural Gas Distribution
+418,193566,China,Female,12,Consumer Services,Real Estate Investment Trusts
+419,128173,Zambia,Male,11,Consumer Services,Military/Government/Technical
+420,163838,China,Male,14,Health Care,Major Pharmaceuticals
+421,86092,China,Male,16,Finance,Major Banks
+422,173201,China,Male,5,Consumer Services,Broadcasting
+423,106231,Brazil,Male,11,n/a,n/a
+424,83470,Uganda,Female,13,Energy,Natural Gas Distribution
+425,199617,China,Male,19,n/a,n/a
+426,78381,China,Male,8,Consumer Durables,Home Furnishings
+427,62292,China,Female,18,Energy,Integrated oil Companies
+428,69229,China,Male,9,Capital Goods,Industrial Machinery/Components
+429,189590,China,Male,9,Basic Industries,Home Furnishings
+430,156879,China,Female,11,n/a,n/a
+431,116690,China,Female,18,Technology,Radio And Television Broadcasting And Communications Equipment
+432,172172,China,Female,6,n/a,n/a
+433,112388,China,Male,0,Miscellaneous,Business Services
+434,116385,China,Male,4,Consumer Durables,Industrial Specialties
+435,64030,China,Female,1,Health Care,Medical/Dental Instruments
+436,157120,China,Male,8,Health Care,Major Pharmaceuticals
+437,82579,Brazil,Female,10,Capital Goods,Metal Fabrications
+438,117153,China,Female,7,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+439,181816,China,Male,5,Technology,Radio And Television Broadcasting And Communications Equipment
+440,69267,China,Male,0,Health Care,Major Pharmaceuticals
+441,198288,France,Male,11,n/a,n/a
+442,139334,France,Female,19,Basic Industries,Forest Products
+443,122183,Thailand,Male,11,Transportation,Marine Transportation
+444,120724,Brazil,Female,0,Technology,Computer Software: Prepackaged Software
+445,115311,China,Female,11,Finance,Major Banks
+446,195408,China,Female,11,Consumer Services,Real Estate Investment Trusts
+447,52898,China,Male,3,n/a,n/a
+448,135183,France,Female,12,Technology,Computer Software: Prepackaged Software
+449,65995,China,Male,16,Transportation,Marine Transportation
+450,187125,France,Male,16,Energy,Oil & Gas Production
+451,55115,Netherlands,Male,6,n/a,n/a
+452,185727,Netherlands,Female,0,Finance,Major Banks
+453,135476,Brazil,Male,9,n/a,n/a
+454,98205,China,Male,14,Consumer Durables,Specialty Chemicals
+455,141053,Thailand,Male,3,n/a,n/a
+456,99657,Brazil,Male,19,Consumer Services,Real Estate Investment Trusts
+457,192865,China,Female,10,Technology,EDP Services
+458,93096,Brazil,Male,17,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+459,139144,Thailand,Female,19,Technology,"Computer Software: Programming, Data Processing"
+460,194171,China,Male,15,Energy,Integrated oil Companies
+461,59479,China,Female,10,Technology,Computer Software: Prepackaged Software
+462,160512,China,Female,10,n/a,n/a
+463,73117,China,Female,6,Health Care,Major Pharmaceuticals
+464,152683,China,Female,0,Transportation,Marine Transportation
+465,137451,China,Female,5,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+466,100192,China,Female,16,n/a,n/a
+467,96482,China,Female,11,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+468,92968,China,Female,11,n/a,n/a
+469,124153,China,Male,11,Finance,Real Estate
+470,52127,China,Male,19,Consumer Services,Other Consumer Services
+471,118715,France,Female,4,Technology,Computer Software: Prepackaged Software
+472,65266,Brazil,Female,7,Health Care,Major Pharmaceuticals
+473,142735,France,Female,2,Health Care,Major Pharmaceuticals
+474,62833,Thailand,Female,17,Consumer Services,Restaurants
+475,55302,China,Female,9,Health Care,Major Pharmaceuticals
+476,194736,Brazil,Male,9,Capital Goods,Industrial Machinery/Components
+477,172429,China,Female,10,Finance,Savings Institutions
+478,143924,China,Male,1,Consumer Services,Other Specialty Stores
+479,188508,China,Female,0,Energy,Natural Gas Distribution
+480,114708,China,Male,1,Technology,Industrial Machinery/Components
+481,68531,China,Male,10,n/a,n/a
+482,153053,China,Female,16,Consumer Services,Broadcasting
+483,66380,China,Female,3,Consumer Non-Durables,Meat/Poultry/Fish
+484,131364,Brazil,Male,2,Consumer Services,Real Estate Investment Trusts
+485,168354,China,Male,19,Finance,Major Banks
+486,116962,Thailand,Female,13,Health Care,Major Pharmaceuticals
+487,170068,Venezuela,Male,4,n/a,n/a
+488,95699,Thailand,Female,16,n/a,n/a
+489,160446,Uganda,Female,7,Finance,Major Banks
+490,76934,France,Female,4,Consumer Services,RETAIL: Building Materials
+491,69814,Brazil,Female,13,n/a,n/a
+492,172549,Brazil,Female,5,n/a,n/a
+493,114672,China,Female,17,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+494,141745,China,Female,0,Health Care,Major Pharmaceuticals
+495,108327,China,Male,19,Capital Goods,Metal Fabrications
+496,94750,China,Female,3,Basic Industries,Agricultural Chemicals
+497,162413,China,Male,10,Technology,Computer Software: Prepackaged Software
+498,78980,China,Female,10,Energy,Natural Gas Distribution
+499,131138,Thailand,Male,18,Consumer Non-Durables,Meat/Poultry/Fish
+500,94904,China,Female,16,Energy,Coal Mining
+501,102643,China,Female,6,Consumer Non-Durables,Specialty Foods
+502,67414,China,Male,10,Finance,Business Services
+503,146429,China,Female,2,Public Utilities,Natural Gas Distribution
+504,196807,China,Male,2,Finance,Major Banks
+505,163141,China,Female,5,Consumer Services,Other Consumer Services
+506,138306,China,Male,8,n/a,n/a
+507,159558,Germany,Female,10,Energy,Oil Refining/Marketing
+508,188374,China,Female,4,Basic Industries,Precious Metals
+509,139523,China,Male,6,Public Utilities,Oil/Gas Transmission
+510,137036,China,Male,13,Capital Goods,Military/Government/Technical
+511,120561,China,Male,1,Basic Industries,Metal Fabrications
+512,85210,France,Male,12,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+513,63611,China,Male,13,Basic Industries,Steel/Iron Ore
+514,186156,Brazil,Male,11,Finance,Property-Casualty Insurers
+515,126237,China,Female,18,n/a,n/a
+516,61079,Nepal,Female,1,Finance,Business Services
+517,131215,France,Female,8,Public Utilities,Electric Utilities: Central
+518,147554,China,Female,7,Health Care,Major Pharmaceuticals
+519,135547,China,Female,3,Consumer Services,Office Equipment/Supplies/Services
+520,154357,Brazil,Male,18,Capital Goods,Industrial Machinery/Components
+521,172402,China,Female,19,Finance,Investment Managers
+522,91774,China,Male,20,Finance,Major Banks
+523,180984,Thailand,Male,11,Basic Industries,Water Supply
+524,72780,France,Female,9,Health Care,Major Pharmaceuticals
+525,181212,Thailand,Male,15,Energy,Oil & Gas Production
+526,195411,China,Female,6,Basic Industries,Precious Metals
+527,179089,China,Female,16,n/a,n/a
+528,187535,China,Male,10,Consumer Non-Durables,Apparel
+529,153851,France,Female,9,n/a,n/a
+530,56633,Germany,Male,18,Health Care,Medical/Nursing Services
+531,67586,China,Female,16,Transportation,Trucking Freight/Courier Services
+532,180908,Brazil,Male,11,Capital Goods,Ordnance And Accessories
+533,54971,China,Female,12,Consumer Services,Other Specialty Stores
+534,75292,China,Male,20,Capital Goods,Industrial Machinery/Components
+535,75601,Brazil,Female,13,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+536,164571,France,Male,14,Finance,Real Estate
+537,98959,Thailand,Female,19,Public Utilities,Power Generation
+538,81218,China,Male,1,Basic Industries,Major Chemicals
+539,70125,China,Male,2,n/a,n/a
+540,173344,China,Female,8,Energy,Oil & Gas Production
+541,62654,China,Male,14,Miscellaneous,Industrial Machinery/Components
+542,85127,China,Female,14,Miscellaneous,Business Services
+543,177635,France,Female,20,n/a,n/a
+544,59673,China,Female,6,Health Care,Medical/Nursing Services
+545,191303,France,Male,8,Miscellaneous,Business Services
+546,50906,China,Female,0,Consumer Non-Durables,Apparel
+547,192585,France,Female,18,Health Care,Major Pharmaceuticals
+548,78415,Brazil,Female,7,n/a,n/a
+549,74053,Brazil,Female,10,n/a,n/a
+550,87065,China,Male,5,Technology,Diversified Commercial Services
+551,100528,China,Female,18,Energy,Oil & Gas Production
+552,156466,China,Male,5,Basic Industries,Major Chemicals
+553,137692,France,Female,18,n/a,n/a
+554,152258,China,Female,11,Public Utilities,Electric Utilities: Central
+555,174770,China,Male,9,Finance,Major Banks
+556,176821,China,Male,4,Finance,Property-Casualty Insurers
+557,80581,China,Female,1,Technology,Computer Software: Prepackaged Software
+558,153995,China,Female,5,n/a,n/a
+559,125479,China,Female,8,Technology,Semiconductors
+560,55426,Brazil,Male,1,n/a,n/a
+561,153639,China,Male,9,n/a,n/a
+562,177590,Thailand,Male,10,Health Care,Major Pharmaceuticals
+563,62909,China,Male,5,Health Care,Medical/Dental Instruments
+564,92356,China,Male,16,Basic Industries,Agricultural Chemicals
+565,165285,France,Female,19,Finance,Major Banks
+566,104133,Brazil,Female,5,Consumer Services,Other Consumer Services
+567,184547,Zambia,Male,6,Finance,Property-Casualty Insurers
+568,141540,China,Female,9,Health Care,Major Pharmaceuticals
+569,153184,Netherlands,Female,19,n/a,n/a
+570,148079,Zambia,Female,3,Finance,Real Estate
+571,65766,China,Male,4,n/a,n/a
+572,130049,China,Female,13,Public Utilities,Telecommunications Equipment
+573,184487,Germany,Male,5,Finance,Finance: Consumer Services
+574,58371,China,Male,9,n/a,n/a
+575,175454,China,Male,3,n/a,n/a
+576,67686,France,Female,6,Finance,Accident &Health Insurance
+577,129644,China,Male,2,Finance,Major Banks
+578,111654,China,Male,8,Capital Goods,Electrical Products
+579,165334,France,Female,7,Consumer Services,Broadcasting
+580,61802,China,Male,18,Energy,Oilfield Services/Equipment
+581,169790,Brazil,Male,9,Public Utilities,Electric Utilities: Central
+582,120619,China,Female,20,Finance,Business Services
+583,55037,Brazil,Male,16,n/a,n/a
+584,156254,China,Male,20,n/a,n/a
+585,142627,China,Male,16,Consumer Durables,Containers/Packaging
+586,134885,China,Male,20,Finance,Property-Casualty Insurers
+587,65248,China,Male,3,Technology,Semiconductors
+588,89606,China,Female,4,Finance,Investment Managers
+589,171072,Thailand,Female,17,Miscellaneous,Business Services
+590,58708,China,Male,5,Finance,Banks
+591,116007,China,Male,0,Consumer Services,Clothing/Shoe/Accessory Stores
+592,199536,Uganda,Male,10,n/a,n/a
+593,181556,Thailand,Female,0,Energy,Oil & Gas Production
+594,139370,China,Female,12,Consumer Services,Real Estate Investment Trusts
+595,191502,China,Male,0,Public Utilities,Power Generation
+596,94509,China,Female,5,Capital Goods,Metal Fabrications
+597,133348,China,Male,16,Capital Goods,Auto Manufacturing
+598,105488,China,Male,19,n/a,n/a
+599,144611,China,Female,9,Finance,Business Services
+600,139883,China,Female,13,Health Care,Major Pharmaceuticals
+601,121952,China,Female,16,n/a,n/a
+602,147503,China,Male,2,n/a,n/a
+603,133335,France,Female,15,Health Care,Medical/Dental Instruments
+604,168049,China,Female,3,n/a,n/a
+605,172097,China,Male,7,n/a,n/a
+606,148387,China,Male,1,Energy,Oilfield Services/Equipment
+607,54842,Brazil,Female,17,Basic Industries,Precious Metals
+608,105043,Netherlands,Female,17,Health Care,Major Pharmaceuticals
+609,122271,Brazil,Male,18,n/a,n/a
+610,113741,China,Female,11,Energy,Oil & Gas Production
+611,130053,China,Male,19,Miscellaneous,Business Services
+612,154654,Germany,Female,4,n/a,n/a
+613,172909,China,Female,17,n/a,n/a
+614,169803,Brazil,Female,11,Finance,Finance: Consumer Services
+615,169256,Brazil,Female,0,Finance,Major Banks
+616,85817,China,Male,0,n/a,n/a
+617,107702,France,Male,12,n/a,n/a
+618,54402,China,Male,18,Energy,Oil & Gas Production
+619,93620,Brazil,Female,11,n/a,n/a
+620,140866,France,Female,17,Finance,Business Services
+621,86106,Brazil,Male,16,Capital Goods,Fluid Controls
+622,185503,China,Male,3,Consumer Durables,Telecommunications Equipment
+623,84104,China,Male,13,Finance,Business Services
+624,54656,Thailand,Female,4,Finance,Commercial Banks
+625,136206,China,Female,3,n/a,n/a
+626,198221,France,Female,20,Consumer Services,Transportation Services
+627,51419,Thailand,Female,1,Health Care,Medical/Dental Instruments
+628,126834,Venezuela,Male,10,Health Care,Medical Specialities
+629,79485,China,Male,8,n/a,n/a
+630,82546,China,Male,8,Finance,Finance: Consumer Services
+631,52928,China,Female,9,Consumer Services,Real Estate Investment Trusts
+632,121737,France,Female,5,Public Utilities,Telecommunications Equipment
+633,95187,China,Female,19,n/a,n/a
+634,168102,China,Male,16,Consumer Services,Real Estate Investment Trusts
+635,111454,China,Female,2,Capital Goods,Auto Parts:O.E.M.
+636,180873,China,Female,1,n/a,n/a
+637,150613,China,Female,12,Technology,EDP Services
+638,102861,China,Male,19,Consumer Non-Durables,Telecommunications Equipment
+639,198220,China,Female,9,n/a,n/a
+640,90141,China,Female,2,Public Utilities,Oil & Gas Production
+641,191339,China,Female,17,Consumer Non-Durables,Homebuilding
+642,197901,China,Male,9,Technology,Semiconductors
+643,110581,Brazil,Female,0,Consumer Services,Clothing/Shoe/Accessory Stores
+644,132290,China,Male,12,n/a,n/a
+645,159059,Brazil,Male,9,n/a,n/a
+646,71170,France,Female,10,Consumer Non-Durables,Beverages (Production/Distribution)
+647,55200,Thailand,Male,12,n/a,n/a
+648,103590,Brazil,Male,9,n/a,n/a
+649,131073,China,Female,16,n/a,n/a
+650,108260,China,Male,5,n/a,n/a
+651,96261,China,Male,8,Finance,Major Banks
+652,138455,China,Male,20,Finance,Major Banks
+653,165872,China,Female,2,n/a,n/a
+654,131785,China,Male,10,Miscellaneous,Business Services
+655,165165,China,Female,7,Public Utilities,Oil & Gas Production
+656,154576,China,Male,10,Basic Industries,Major Chemicals
+657,87917,China,Male,6,Capital Goods,Marine Transportation
+658,129467,France,Male,4,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+659,176160,Germany,Male,4,Consumer Durables,Specialty Chemicals
+660,102972,China,Male,2,Finance,Property-Casualty Insurers
+661,101976,Thailand,Female,13,Capital Goods,Aerospace
+662,55388,China,Male,5,Finance,Major Banks
+663,87310,Brazil,Female,15,Consumer Services,Clothing/Shoe/Accessory Stores
+664,146034,China,Female,3,Health Care,Medical/Dental Instruments
+665,110732,Brazil,Male,13,Energy,Oil & Gas Production
+666,178876,China,Male,17,Finance,Property-Casualty Insurers
+667,88877,China,Male,16,n/a,n/a
+668,140323,China,Male,12,Consumer Services,Restaurants
+669,127647,China,Female,1,Consumer Services,Real Estate Investment Trusts
+670,96255,China,Male,20,n/a,n/a
+671,75358,China,Male,16,Technology,Semiconductors
+672,174929,Brazil,Male,10,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+673,90479,China,Female,4,Technology,EDP Services
+674,123819,China,Female,12,Technology,Computer Software: Prepackaged Software
+675,68732,China,Male,4,Health Care,Other Pharmaceuticals
+676,114831,Germany,Male,17,Consumer Services,Professional Services
+677,118173,China,Male,19,Capital Goods,Auto Parts:O.E.M.
+678,157801,China,Male,7,Capital Goods,Auto Manufacturing
+679,52719,Brazil,Male,6,Miscellaneous,Business Services
+680,174716,China,Female,20,Technology,Computer Software: Prepackaged Software
+681,89849,China,Female,5,Consumer Durables,Building Products
+682,122643,China,Male,5,Finance,Finance: Consumer Services
+683,125881,Brazil,Male,14,Basic Industries,Package Goods/Cosmetics
+684,157991,China,Female,19,Technology,Semiconductors
+685,149707,China,Female,11,Energy,Oil & Gas Production
+686,62939,China,Male,0,n/a,n/a
+687,94017,China,Female,0,n/a,n/a
+688,60723,Netherlands,Female,4,Technology,Computer Software: Prepackaged Software
+689,50220,China,Female,11,Consumer Services,Department/Specialty Retail Stores
+690,118542,Zambia,Male,7,Basic Industries,Forest Products
+691,145469,Thailand,Female,4,Public Utilities,Oil/Gas Transmission
+692,62665,China,Female,17,Basic Industries,Precious Metals
+693,197542,Brazil,Female,18,n/a,n/a
+694,135015,China,Female,3,Consumer Services,Other Specialty Stores
+695,110872,China,Female,12,n/a,n/a
+696,64955,Brazil,Female,8,Public Utilities,Telecommunications Equipment
+697,184389,China,Male,1,Consumer Services,Building operators
+698,179305,China,Female,0,Finance,Savings Institutions
+699,134058,China,Male,7,Finance,Investment Managers
+700,183533,Brazil,Male,12,Finance,Business Services
+701,105673,France,Male,9,n/a,n/a
+702,148596,China,Female,5,n/a,n/a
+703,189193,Brazil,Male,11,Transportation,Trucking Freight/Courier Services
+704,106173,China,Male,6,Finance,Property-Casualty Insurers
+705,114182,France,Male,15,n/a,n/a
+706,66521,China,Male,6,Public Utilities,Telecommunications Equipment
+707,162897,China,Male,12,n/a,n/a
+708,54691,France,Female,14,Consumer Services,Hotels/Resorts
+709,59400,China,Male,16,Miscellaneous,Business Services
+710,166909,China,Female,8,Health Care,Medical/Dental Instruments
+711,79160,China,Female,17,Consumer Services,Services-Misc. Amusement & Recreation
+712,60388,Brazil,Female,1,n/a,n/a
+713,197625,China,Female,1,Health Care,Medical/Dental Instruments
+714,108994,Brazil,Female,16,Consumer Services,Paper
+715,91569,China,Male,10,Health Care,Major Pharmaceuticals
+716,188095,Brazil,Female,9,Finance,Life Insurance
+717,116643,France,Female,13,Finance,Property-Casualty Insurers
+718,194075,China,Male,11,n/a,n/a
+719,99860,Brazil,Female,16,n/a,n/a
+720,163916,China,Female,18,Finance,Major Banks
+721,85527,China,Female,19,Public Utilities,Telecommunications Equipment
+722,53929,China,Male,20,Technology,Computer Software: Prepackaged Software
+723,181477,France,Male,1,Technology,Diversified Commercial Services
+724,156791,China,Male,11,Consumer Durables,Specialty Chemicals
+725,97430,China,Female,16,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
+726,63810,China,Male,15,n/a,n/a
+727,125643,France,Male,11,Public Utilities,Oil/Gas Transmission
+728,112895,China,Male,6,Technology,Computer Software: Prepackaged Software
+729,180807,China,Male,8,Finance,Specialty Insurers
+730,175742,France,Male,5,n/a,n/a
+731,81764,China,Female,5,n/a,n/a
+732,170643,China,Male,10,Consumer Non-Durables,Packaged Foods
+733,133916,China,Female,18,Technology,EDP Services
+734,52752,China,Male,19,n/a,n/a
+735,181159,Netherlands,Male,12,Transportation,Marine Transportation
+736,164239,Brazil,Female,18,Capital Goods,Building Products
+737,109194,China,Male,13,Consumer Services,Other Consumer Services
+738,195353,Brazil,Male,0,n/a,n/a
+739,125040,Brazil,Female,9,Consumer Services,Restaurants
+740,112325,China,Male,14,Consumer Services,RETAIL: Building Materials
+741,154819,China,Female,20,Consumer Services,Advertising
+742,147072,Netherlands,Male,10,Finance,Major Banks
+743,53138,China,Female,3,Technology,EDP Services
+744,118502,Brazil,Female,3,n/a,n/a
+745,178064,Brazil,Female,7,Capital Goods,Engineering & Construction
+746,107841,China,Female,12,Capital Goods,Military/Government/Technical
+747,96622,China,Female,20,Consumer Durables,Telecommunications Equipment
+748,117987,Thailand,Male,5,Consumer Non-Durables,Beverages (Production/Distribution)
+749,167243,Brazil,Male,6,Consumer Services,Broadcasting
+750,191129,China,Female,14,Consumer Durables,Automotive Aftermarket
+751,130320,China,Male,8,n/a,n/a
+752,188389,China,Male,5,Finance,Business Services
+753,152947,Brazil,Female,16,Consumer Services,Real Estate Investment Trusts
+754,115952,Brazil,Female,5,Consumer Durables,Containers/Packaging
+755,136622,China,Female,8,Health Care,Industrial Specialties
+756,94670,China,Male,6,Miscellaneous,Industrial Machinery/Components
+757,168453,China,Female,9,Finance,Investment Managers
+758,73577,China,Male,8,Technology,EDP Services
+759,91279,France,Male,3,n/a,n/a
+760,57554,China,Male,15,Basic Industries,Major Chemicals
+761,74533,France,Female,1,n/a,n/a
+762,70318,France,Female,14,Finance,Real Estate
+763,146306,France,Female,19,Consumer Services,Department/Specialty Retail Stores
+764,180023,China,Male,3,Technology,Computer Software: Prepackaged Software
+765,121552,China,Male,14,Capital Goods,Industrial Machinery/Components
+766,160592,China,Female,12,n/a,n/a
+767,139836,Nepal,Male,18,Basic Industries,Forest Products
+768,149106,China,Male,6,Miscellaneous,Other Consumer Services
+769,180355,Germany,Female,0,Consumer Services,Real Estate Investment Trusts
+770,189393,China,Female,16,Health Care,Major Pharmaceuticals
+771,176731,China,Female,20,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+772,60064,China,Female,18,Consumer Services,Department/Specialty Retail Stores
+773,96364,France,Male,7,n/a,n/a
+774,132758,Brazil,Female,17,Consumer Services,Real Estate Investment Trusts
+775,129336,Venezuela,Female,4,Public Utilities,Electric Utilities: Central
+776,108103,China,Male,14,Technology,Computer Software: Prepackaged Software
+777,154066,France,Female,2,Capital Goods,Industrial Specialties
+778,98258,China,Female,19,Public Utilities,Telecommunications Equipment
+779,109927,China,Male,9,Health Care,Medical/Dental Instruments
+780,160322,China,Male,15,Finance,Real Estate
+781,177235,China,Female,19,Capital Goods,Industrial Machinery/Components
+782,132982,China,Female,14,Technology,Industrial Machinery/Components
+783,114994,China,Female,14,n/a,n/a
+784,138075,China,Female,15,Consumer Services,Homebuilding
+785,192175,China,Female,17,Consumer Services,Military/Government/Technical
+786,135181,France,Female,13,Miscellaneous,Business Services
+787,91525,China,Female,2,n/a,n/a
+788,174400,China,Male,20,n/a,n/a
+789,191213,France,Male,3,Technology,EDP Services
+790,181283,China,Female,13,Finance,Investment Bankers/Brokers/Service
+791,130243,France,Male,20,Health Care,Medical/Dental Instruments
+792,169990,China,Female,19,Capital Goods,Metal Fabrications
+793,196609,China,Female,2,Technology,Computer Software: Prepackaged Software
+794,114482,China,Female,13,Technology,EDP Services
+795,197617,China,Male,13,Technology,Semiconductors
+796,100480,Thailand,Female,18,Technology,"Computer Software: Programming, Data Processing"
+797,197210,China,Male,2,Finance,Property-Casualty Insurers
+798,147211,Thailand,Female,0,n/a,n/a
+799,199707,Netherlands,Female,16,n/a,n/a
+800,183579,China,Male,4,Consumer Services,Other Consumer Services
+801,164686,China,Female,19,Energy,Oil Refining/Marketing
+802,161872,China,Male,13,Consumer Durables,Metal Fabrications
+803,66714,China,Male,12,Consumer Services,Rental/Leasing Companies
+804,119292,China,Male,9,n/a,n/a
+805,145568,China,Male,18,Finance,Major Banks
+806,193814,China,Male,9,Public Utilities,Water Supply
+807,67694,China,Female,17,Technology,"Computer Software: Programming, Data Processing"
+808,79917,Venezuela,Female,3,Basic Industries,Paper
+809,105598,China,Female,5,Consumer Services,Real Estate Investment Trusts
+810,188931,Thailand,Male,3,Consumer Services,Other Consumer Services
+811,106227,France,Female,17,Miscellaneous,Business Services
+812,64274,Brazil,Male,7,Energy,Integrated oil Companies
+813,194885,Brazil,Male,8,Capital Goods,Specialty Chemicals
+814,109544,China,Male,4,Finance,Finance: Consumer Services
+815,187670,China,Female,19,Capital Goods,Electronic Components
+816,154133,Brazil,Female,11,Technology,Semiconductors
+817,58272,China,Female,16,Technology,Computer Software: Prepackaged Software
+818,176838,France,Female,17,Consumer Services,Clothing/Shoe/Accessory Stores
+819,113313,Brazil,Male,8,n/a,n/a
+820,83820,China,Male,1,Capital Goods,Auto Parts:O.E.M.
+821,94467,Brazil,Male,16,Public Utilities,Power Generation
+822,51318,China,Female,17,n/a,n/a
+823,61258,China,Male,15,n/a,n/a
+824,127515,China,Male,16,Energy,Oil & Gas Production
+825,183551,China,Female,4,n/a,n/a
+826,196658,China,Male,15,Technology,Diversified Commercial Services
+827,52108,France,Male,0,Consumer Services,Food Chains
+828,170321,China,Male,13,n/a,n/a
+829,119138,France,Female,6,n/a,n/a
+830,143571,China,Male,13,Public Utilities,Natural Gas Distribution
+831,162116,China,Male,20,Transportation,Marine Transportation
+832,164661,China,Female,2,Finance,Savings Institutions
+833,98867,China,Female,2,Capital Goods,Military/Government/Technical
+834,70380,China,Female,7,Consumer Durables,Automotive Aftermarket
+835,138713,China,Female,1,n/a,n/a
+836,128149,China,Male,13,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+837,99394,China,Male,13,Capital Goods,Aerospace
+838,62537,China,Male,18,Technology,"Computer Software: Programming, Data Processing"
+839,165042,China,Male,17,n/a,n/a
+840,161652,China,Male,3,Consumer Services,Real Estate Investment Trusts
+841,153894,China,Female,16,Consumer Non-Durables,Beverages (Production/Distribution)
+842,114243,China,Male,5,Miscellaneous,Business Services
+843,104953,China,Female,17,Consumer Services,Real Estate Investment Trusts
+844,167744,China,Male,4,Finance,Savings Institutions
+845,102105,China,Male,20,n/a,n/a
+846,137330,China,Female,0,Consumer Services,Other Consumer Services
+847,78698,China,Male,18,Health Care,Medical/Dental Instruments
+848,96897,China,Female,11,Finance,Investment Bankers/Brokers/Service
+849,111065,Zambia,Female,18,Public Utilities,Telecommunications Equipment
+850,184860,France,Female,19,Finance,Property-Casualty Insurers
+851,132881,France,Male,11,Finance,Investment Bankers/Brokers/Service
+852,175668,China,Female,13,Health Care,Medical Specialities
+853,131018,China,Male,15,n/a,n/a
+854,118330,China,Male,12,Consumer Services,Catalog/Specialty Distribution
+855,50883,China,Male,17,Capital Goods,Wholesale Distributors
+856,136434,China,Male,0,Finance,Investment Bankers/Brokers/Service
+857,181609,China,Female,1,n/a,n/a
+858,60172,France,Female,2,n/a,n/a
+859,166080,China,Female,2,Technology,"Computer Software: Programming, Data Processing"
+860,98719,China,Female,15,Technology,Computer Software: Prepackaged Software
+861,143293,Germany,Female,17,Finance,Property-Casualty Insurers
+862,84001,China,Male,19,n/a,n/a
+863,105117,China,Female,3,Finance,Commercial Banks
+864,166298,China,Female,16,Miscellaneous,Business Services
+865,63781,Brazil,Female,3,n/a,n/a
+866,126346,Brazil,Male,2,Basic Industries,Paper
+867,125471,China,Male,17,Health Care,Major Pharmaceuticals
+868,130973,China,Male,18,Finance,Finance: Consumer Services
+869,189673,France,Female,20,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+870,196940,Brazil,Male,0,Consumer Non-Durables,Beverages (Production/Distribution)
+871,113117,Thailand,Male,9,Energy,Oil & Gas Production
+872,156396,Brazil,Female,1,Finance,Specialty Insurers
+873,112327,China,Male,10,Basic Industries,Major Chemicals
+874,89360,Brazil,Male,4,n/a,n/a
+875,180756,Venezuela,Male,12,Public Utilities,Natural Gas Distribution
+876,191565,Nepal,Male,18,Technology,Semiconductors
+877,151316,China,Female,12,Finance,Major Banks
+878,199992,China,Male,12,Consumer Durables,Telecommunications Equipment
+879,160226,Uganda,Male,0,Consumer Services,Real Estate Investment Trusts
+880,196179,China,Male,7,n/a,n/a
+881,50398,Brazil,Male,16,Basic Industries,Environmental Services
+882,89392,China,Female,15,n/a,n/a
+883,136617,China,Male,12,Consumer Non-Durables,Apparel
+884,198378,China,Male,14,n/a,n/a
+885,127274,China,Female,15,Technology,"Computer Software: Programming, Data Processing"
+886,53472,Brazil,Female,3,Consumer Services,Farming/Seeds/Milling
+887,191495,China,Female,9,Finance,Major Banks
+888,139405,Nepal,Male,9,n/a,n/a
+889,51537,Netherlands,Female,12,n/a,n/a
+890,93857,China,Male,3,Basic Industries,Major Chemicals
+891,69895,China,Female,8,Finance,Major Banks
+892,178128,China,Female,18,Consumer Services,Television Services
+893,92159,China,Female,2,n/a,n/a
+894,111529,France,Female,10,Capital Goods,Steel/Iron Ore
+895,99764,China,Female,5,Technology,Computer Software: Prepackaged Software
+896,126109,China,Female,2,Consumer Services,Catalog/Specialty Distribution
+897,80659,China,Female,20,Consumer Non-Durables,Shoe Manufacturing
+898,57263,China,Female,0,Finance,Savings Institutions
+899,171923,China,Male,13,Health Care,Major Pharmaceuticals
+900,75855,Brazil,Female,5,n/a,n/a
+901,152775,China,Female,16,Finance,Major Banks
+902,189189,China,Male,5,Public Utilities,Telecommunications Equipment
+903,51118,Brazil,Female,17,Energy,Oilfield Services/Equipment
+904,57782,Brazil,Male,0,Finance,Major Banks
+905,59495,Netherlands,Female,10,Finance,Investment Bankers/Brokers/Service
+906,188861,China,Male,3,Consumer Services,Clothing/Shoe/Accessory Stores
+907,151349,Brazil,Male,6,Basic Industries,Engineering & Construction
+908,179962,China,Female,3,n/a,n/a
+909,138771,Brazil,Male,14,Finance,Investment Bankers/Brokers/Service
+910,127451,China,Female,10,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances
+911,55793,China,Female,8,Capital Goods,Industrial Machinery/Components
+912,140069,China,Female,9,n/a,n/a
+913,148048,China,Female,12,Capital Goods,Metal Fabrications
+914,155941,France,Female,18,Technology,Radio And Television Broadcasting And Communications Equipment
+915,141679,China,Male,12,Health Care,Major Pharmaceuticals
+916,82585,China,Male,16,Health Care,Precision Instruments
+917,135382,China,Male,6,Consumer Services,Real Estate Investment Trusts
+918,137131,China,Female,17,n/a,n/a
+919,178869,China,Male,16,n/a,n/a
+920,94231,Thailand,Male,19,Technology,Semiconductors
+921,115647,China,Male,11,n/a,n/a
+922,60309,China,Female,20,Technology,Diversified Commercial Services
+923,50244,China,Male,4,Consumer Services,Real Estate Investment Trusts
+924,87424,China,Female,9,Consumer Services,Building operators
+925,165753,Brazil,Female,7,Consumer Non-Durables,Farming/Seeds/Milling
+926,50027,France,Male,0,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+927,139064,Brazil,Male,2,n/a,n/a
+928,185099,France,Female,13,Technology,Radio And Television Broadcasting And Communications Equipment
+929,82773,China,Female,19,Technology,"Computer Software: Programming, Data Processing"
+930,130709,China,Female,18,Transportation,Aerospace
+931,131984,China,Female,17,Finance,Property-Casualty Insurers
+932,165545,China,Female,0,Health Care,Major Pharmaceuticals
+933,197621,China,Female,19,Finance,Major Banks
+934,86669,China,Female,5,n/a,n/a
+935,194219,China,Male,20,Consumer Services,Consumer Specialties
+936,166191,China,Female,20,Energy,Integrated oil Companies
+937,189543,China,Male,18,Capital Goods,Industrial Machinery/Components
+938,117530,China,Male,14,n/a,n/a
+939,69377,China,Female,6,Consumer Services,Restaurants
+940,151071,China,Female,10,n/a,n/a
+941,151086,China,Female,12,Finance,Major Banks
+942,188667,China,Female,15,n/a,n/a
+943,172740,China,Male,14,n/a,n/a
+944,91574,China,Female,8,Capital Goods,Auto Manufacturing
+945,101892,France,Male,4,Basic Industries,Metal Fabrications
+946,174106,China,Female,20,Consumer Services,Other Specialty Stores
+947,114406,China,Male,20,Technology,Computer peripheral equipment
+948,148226,France,Male,2,Consumer Services,Restaurants
+949,189660,China,Female,12,Public Utilities,Electric Utilities: Central
+950,173393,China,Female,8,Technology,Computer Software: Prepackaged Software
+951,140376,China,Male,20,Consumer Durables,Automotive Aftermarket
+952,54339,France,Male,8,Consumer Services,Restaurants
+953,181370,China,Female,18,n/a,n/a
+954,66211,China,Male,4,n/a,n/a
+955,131694,China,Male,19,Finance,Business Services
+956,97391,China,Male,8,Health Care,Major Pharmaceuticals
+957,197673,China,Female,2,Finance,Property-Casualty Insurers
+958,82659,China,Female,8,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+959,51018,China,Male,15,Finance,Major Banks
+960,76250,Brazil,Male,14,Consumer Non-Durables,Farming/Seeds/Milling
+961,152932,France,Female,6,n/a,n/a
+962,150560,China,Male,18,Health Care,Major Pharmaceuticals
+963,59701,China,Female,14,Consumer Services,Real Estate Investment Trusts
+964,131474,Venezuela,Male,11,Health Care,Major Pharmaceuticals
+965,79704,Brazil,Male,6,Basic Industries,Precious Metals
+966,82116,China,Male,19,Finance,Savings Institutions
+967,137815,China,Female,1,n/a,n/a
+968,190018,China,Male,17,Capital Goods,Homebuilding
+969,156777,France,Male,20,Consumer Non-Durables,Plastic Products
+970,63199,France,Male,8,n/a,n/a
+971,106906,China,Female,12,Energy,Electric Utilities: Central
+972,77456,China,Male,17,Basic Industries,Steel/Iron Ore
+973,94354,China,Female,3,n/a,n/a
+974,134228,China,Female,0,n/a,n/a
+975,101347,Thailand,Male,13,Public Utilities,Telecommunications Equipment
+976,79319,China,Female,12,Consumer Non-Durables,Packaged Foods
+977,104502,China,Male,16,Consumer Non-Durables,Apparel
+978,134304,China,Male,20,n/a,n/a
+979,104670,China,Female,9,Technology,Diversified Commercial Services
+980,80682,China,Female,19,Consumer Services,Real Estate Investment Trusts
+981,175864,China,Male,14,n/a,n/a
+982,179622,China,Male,1,Public Utilities,Natural Gas Distribution
+983,178157,China,Female,16,Energy,Oil & Gas Production
+984,78573,China,Male,17,n/a,n/a
+985,141759,Brazil,Male,15,n/a,n/a
+986,76410,China,Female,10,Consumer Services,Services-Misc. Amusement & Recreation
+987,117192,China,Female,17,Consumer Services,Restaurants
+988,83822,China,Male,17,Public Utilities,Telecommunications Equipment
+989,141424,China,Male,1,Public Utilities,Electric Utilities: Central
+990,127837,China,Male,12,Health Care,Major Pharmaceuticals
+991,165724,China,Male,3,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+992,172512,France,Female,12,Finance,Finance/Investors Services
+993,149849,France,Male,7,n/a,n/a
+994,102673,China,Female,5,Health Care,Industrial Specialties
+995,189288,France,Female,3,Consumer Services,Real Estate Investment Trusts
+996,169898,China,Male,18,Health Care,Major Pharmaceuticals
+997,62725,China,Male,2,Health Care,Biotechnology: Commercial Physical & Biological Resarch
+998,93606,China,Male,16,Technology,Semiconductors
+999,67202,China,Female,0,Finance,Property-Casualty Insurers
+1000,169032,China,Female,4,Finance,Major Banks

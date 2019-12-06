@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+    <div class="container">
+        <div class="sentence">
+            <h1>Are you getting paid fairly?</h1>
+            <h2>
+                <span>Your current compensation is </span>
+                <span id="delta-from-median"></span>.
+                <!--<span id="above-or-below"></span>.-->
+            </h2>
+        </div>
+    </div>
+    <div class="container" id="salary-benchmark-block"></div>
+    <div class="container"></div>
+        <div class="sentence">
+            At 
+            <span>
+                <input type="range" id="salary-slider" name="salary" 
+                       min="0" max="1500000" value="0" step="1000">
+                <!--<label for="salary">Yearly salary</label>-->
+            </span>
+            <span id="currency">HK$</span>
+            <span id="salary" class="values">0</span> per year, and with
+            <span>
+                <input type="range" id="experience-slider" name="experience" 
+                       min="0" max="25" value="0" step="1">
+            </span>
+            <span id="experience" class="values">5 years</span>
+            of experience, you make more than
+            <span id="percentage" class="values">top 35%</span> of your
+            <select class="select-css" id="industry-select"></select>
+            <span id="industry" class="values">design</span> peers in
+            <select class="select-css" id="location-select"></select>
+            <span id="location" class="values">Shanghai</span>
+        </div>
+    </div>
+    
+    <div class="container" id="projected-income-block">
+        <div class="sentence">
+            <h2 class="medium">Stay or leave?</h2>
+            <span>Your estimated income 5 years from now, if you </span>
+            <span id="job-switch-toggle">
+                <span id="stay" class="toggle-option option-left">stay in your job</span>:
+                <span id="salary-low-text" class="values"></span> -
+                <span id="salary-high-text" class="values"></span>
+                <span id="leave" class="toggle-option active option-right">(or you could switch jobs)</span>
+            </span>
+            <span>
+                
+            </span>
+        </div>
+        <div>
+            <svg id="projected-income"></svg>
+        </div>
+        <div class="sentence projected-income-disclaimer">
+            <p class="small">
+                Your estimated income is based on expected annual salary increases for your industry and location, and a promotion.
+            </p>
+        </div>
+        
+    </div>
+    <div class="container" id="cta">
+        <div class="sentence">
+            Interested in <span id="cta-industry" class="values"></span>
+            jobs
+            <span id="cta-location" class="values"></span>?
+            <a id="jobs-link" href="/jobs" target="_blank">
+                See jobs
+            </a>
+        </div>
+    </div>
+    <div class="container" id="alternative-cities-block">
+        <div class="sentence">
+            <div class="">
+               <span id="first-alternative"></span>
+               <span id="first-alternative-salary"></span>
+            </div>
+            <div class="">
+               <span id="second-alternative"></span>
+               <span id="second-alternative-salary"></span>
+            </div>
+            <div class="">
+               <span id="third-alternative"></span>
+               <span id="third-alternative-salary"></span>
+            </div>
+        </div>
+    </div>
+        
+    <script type="text/javascript" src="js/d3.min.5.9.7.js"></script>
+    <script type="text/javascript" src="js/percentiles.js"></script>
+    <script type="text/javascript" src="js/histogram.js"></script>
+    <script type="text/javascript" src="js/projected-income-chart.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <!--<script type="text/javascript" src="js/compare-locations.js"></script>-->
+
+</body>
+</html>
