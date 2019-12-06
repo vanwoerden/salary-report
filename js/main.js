@@ -38,7 +38,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             drawOrUpdateCharts(_data);
         });
     }
-    loadCSV("data/active_candidate_salary_2019_10_21_under_1_5_m.csv");
+    loadCSV("https://cdn.jsdelivr.net/gh/vanwoerden/salary-report/data/active_candidate_salary_2019_10_21_under_1_5_m.csv");
     
     function drawOrUpdateCharts(data) {
         data.forEach(function(d) {
