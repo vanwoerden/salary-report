@@ -27,7 +27,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
             
             _data = data;
             // 2. draw charts for the first time
-            loadRaisesCSV("data/raises_per_industry2.csv");
+            loadRaisesCSV("https://cdn.jsdelivr.net/gh/vanwoerden/salary-report/data/raises_per_industry2.csv");
         });
     }
     function loadRaisesCSV(csv) {
