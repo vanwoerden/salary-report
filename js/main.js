@@ -43,7 +43,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     function drawOrUpdateCharts(data) {
         data.forEach(function(d) {
             d.id = +d.id;
-            d.salary = +d.salary * HKD_value;
+            d.salary = +d.salary;// * HKD_value;
             d.location = d.location;
             d.gender = d.gender;
             d.months_of_experience = +d.months_of_experience;
@@ -253,15 +253,55 @@ window.addEventListener('DOMContentLoaded', (event) => {
         switch(c) {
             case 1:
                 switchJobs = true;
-                drawProjectedIncome(_raises, salary, industry, switchJobs, location);
+                //drawProjectedIncome(_raises, salary, industry, switchJobs, location);
                 document.getElementById("stay").innerHTML = "switch jobs now";
                 document.getElementById("leave").innerHTML = "(or you can stay in your job)";
+
+                document.getElementById("current-salary-line").classList.add("dashed");
+                document.getElementById("potential-salary-line").classList.remove("dashed");
+                document.getElementById("current-salary-line").classList.add("opacity-5");
+                document.getElementById("potential-salary-line").classList.remove("opacity-5");
+                document.getElementById("potential-area").classList.remove("opacity-0");
+                document.getElementById("projected-area").classList.add("opacity-0");
+                document.getElementById("high-salary-point").classList.add("opacity-0");
+                
+                // hide current salary points and labels
+                document.getElementById("current-salary-point").classList.add("opacity-0");
+                document.getElementById("potential-current-salary-point").classList.remove("opacity-0");
+                document.getElementById("potential-high-salary-point").classList.remove("opacity-0");
+                // show potential salary points and labels
+                document.getElementById("promotion-point").classList.add("opacity-0");
+                document.getElementById("potential-promotion-point").classList.remove("opacity-0");
+                
+                document.getElementById("promo-container").classList.add("up-a-bit");
+                
+                // update text range to potential low - high projected salary
+                // show potential current and future salary in chart, or should be range?
+                
                 break;
             case 2:
                 switchJobs = false;
-                drawProjectedIncome(_raises, salary, industry, switchJobs, location);
+                //drawProjectedIncome(_raises, salary, industry, switchJobs, location);
                 document.getElementById("stay").innerHTML = "stay in your job";
                 document.getElementById("leave").innerHTML = "(or you could switch jobs)";
+                
+                document.getElementById("current-salary-line").classList.remove("dashed");
+                document.getElementById("potential-salary-line").classList.add("dashed");
+                document.getElementById("current-salary-line").classList.remove("opacity-5");
+                document.getElementById("potential-salary-line").classList.add("opacity-5");
+                document.getElementById("potential-area").classList.add("opacity-0");
+                document.getElementById("projected-area").classList.remove("opacity-0");
+                document.getElementById("high-salary-point").classList.remove("opacity-0");
+                document.getElementById("potential-high-salary-point").classList.add("opacity-0");
+                
+                document.getElementById("current-salary-point").classList.remove("opacity-0");
+                document.getElementById("potential-current-salary-point").classList.add("opacity-0");
+                document.getElementById("potential-high-salary-point").classList.add("opacity-0");
+                
+                document.getElementById("promotion-point").classList.remove("opacity-0");
+                document.getElementById("potential-promotion-point").classList.add("opacity-0");
+                document.getElementById("promo-container").classList.remove("up-a-bit");
+                
                 break;
         }
     });

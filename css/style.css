@@ -1,9 +1,12 @@
+:root {
+  --main-color: #e4002b;
+}
 body, svg {
     font-size: 12px;
-    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Poppins webfont", "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 body {
-    margin: 0;
+    margin: 0 auto;
     max-width: 640px;
 }
 h1 {
@@ -24,13 +27,13 @@ h2.medium {
     font-weight: 500;
 }
 a {
-    color: #f05424;
+    color: var(--main-color);
 }
 a#jobs-link {
-    background-color: #f05424;
+    background-color: var(--main-color);
     color: white;
     text-decoration: none;
-    border-radius: 100px;
+    /*border-radius: 100px;*/
     padding: 11px 20px;
     /* width: 100%; */
     display: block;
@@ -58,7 +61,7 @@ select {
 .select-css {
 	display: inline;
     font-size: 1em;
-    font-family: "Work Sans";
+    font-family: "Poppins webfont", "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-weight: 500;
     line-height: 1.5em;
     padding: 0; 
@@ -131,44 +134,71 @@ select {
 .salary-point {
     stroke-width: 2px;
     fill: white;
-    stroke: #f05424;
+    stroke: var(--main-color);
+}
+.salary-point-blue {
+    stroke-width: 2px;
+    fill: white;
+    stroke: #0e64c7;
 }
 .promotion-point {
     stroke-width: 1.5px;
     fill: white;
-    stroke: #f05424;
+    stroke: var(--main-color);
 }
 .dot {
     opacity: 0;
 }
 .user-salary-dot {
     fill: #fff;
-    stroke: #f05424;
+    stroke: var(--main-color);
     stroke-width: 3;
 }
 .line, .line2 {
-    fill: #f05424;
+    fill: var(--main-color);
     fill-opacity: 0.3;
-    stroke: #f05424;
+    stroke: var(--main-color);
     stroke-width: 3;
     /*opacity: 0.5;*/
 }
 .line-orange {
-    stroke: #f05424;
+    stroke: var(--main-color);
     stroke-width: 3;
     fill: none;
+}
+.line-blue {
+    stroke: #0e64c7;
+    stroke-width: 3;
+    fill: none;
+}
+.dashed {
+  stroke-dasharray: 5;
+}
+.opacity-5 {
+  opacity: 0.5;
+}
+.opacity-0 {
+  opacity: 0;
+  transition: 0.4s;
+}
+#potential-area, #projected-area {
+
+}
+.promotion-margin {
+  margin-top: -30px;
+  transition: 0.3s;
 }
 .line2 {
     fill: #333;
     stroke: #333;
 }
 .label-background {
-    fill: #f05424;
+    fill: var(--main-color);
     width: 40px;
     height: 20px;
 }
 .promotion-label-background {
-    fill: #f05424;
+    fill: var(--main-color);
     width: 82px;
     height: 20px;
 }
@@ -217,7 +247,7 @@ select {
     text-decoration: none;
 }
 .toggle-option.active {
-    color: #f05424;
+    color: var(--main-color);
     text-decoration: underline; 
     transition: 0.3s;
 }
@@ -231,13 +261,21 @@ select {
 }
 .x-axis {
     font-size: 1em;
-    font-family: "Work Sans";
+    font-family: "Poppins webfont", "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 .y-axis {
     display: none;
 }
 .tick {
     font-size: 1em;
+}
+.up-a-bit {
+  transform: translateY(-50px);
+  transition: 0.1s;
+}
+.down-a-bit {
+  transform: translateY(-20px);
+  transition: 0.1s;
 }
 
 /*
@@ -269,7 +307,7 @@ input[type=range]::-ms-track {
 /* Special styling for WebKit/Blink */
 input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
-  border: 2px solid #f05424;
+  border: 2px solid var(--main-color);
   height: 24px;
   width: 24px;
   border-radius: 12px;
@@ -282,7 +320,7 @@ input[type=range]::-webkit-slider-thumb {
 /* All the same stuff for Firefox */
 input[type=range]::-moz-range-thumb {
   box-shadow: 0.5px 0.5px 2px 1px rgba(0,0,0,.32)
-  border: 2px solid #f05424;
+  border: 2px solid var(--main-color);
   height: 24px;
   width: 24px;
   border-radius: 12px;
@@ -293,7 +331,7 @@ input[type=range]::-moz-range-thumb {
 /* All the same stuff for IE */
 input[type=range]::-ms-thumb {
   box-shadow: 0.5px 0.5px 2px 1px rgba(0,0,0,.32)
-  border: 2px solid #f05424;
+  border: 2px solid var(--main-color);
   height: 24px;
   width: 24px;
   border-radius: 12px;
@@ -305,7 +343,7 @@ input[type=range]::-webkit-slider-runnable-track {
   height: 6px;
   cursor: pointer;
   /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
-  background: #f05424;
+  background: var(--main-color);
   border-radius: 3px;
   /*border: 0.2px solid #010101;*/
 }
@@ -318,7 +356,7 @@ input[type=range]::-moz-range-track {
   height: 6px;
   cursor: pointer;
   /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
-  background: #f05424;
+  background: var(--main-color);
   border-radius: 3px;
   /*border: 0.2px solid #010101;*/
 }

@@ -1,5 +1,5 @@
 var _percentRank = 0;
-var currency = "HK$";
+var currency = "RMB";
 function drawHistogram(data, userSalary) {
     
     var formatPercent = d3.format(".0%");
